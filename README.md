@@ -1,8 +1,8 @@
 # ABOUT ME
-     Hey 
-         myself Nafla Nasar currently struggling to be an electronics engineer
-         
-         Intrested in learning something new 
+
+Hey 
+myself Nafla Nasar currently struggling to be an electronics engineer
+Intrested in learning something new 
          
 # FABLAB         
         
@@ -16,4 +16,4 @@ needs in ways that are not practical or economical using mass production
        
 # MES FABLAB
                
-        I am proud to say that my college owns an extraordinary fablab.Only few colleges in kerala owns it.All the machines available here are so useful for the students.The coordinates behind fablab are working so hard to make it beneficial for the students aswell as staffs.
+I am proud to say that my college owns an extraordinary fablab.Only few colleges in kerala owns it.All the machines available here are so useful for the students.The coordinates behind fablab are working so hard to make it beneficial for the students aswell as staffs.
