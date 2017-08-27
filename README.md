@@ -2,10 +2,11 @@
 
 Hey 
 myself Nafla Nasar currently struggling to be an electronics engineer
-Intrested in learning something new 
+Intrested in learning something new
          
-# FABLAB         
-        
+# FABLAB   
+
+   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
 A fab lab (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication.A fab lab is typically equipped
 with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to
 make "almost anything". This includes technology-enabled products generally perceived as limited to mass production.While fab labs have
